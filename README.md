@@ -34,3 +34,6 @@ Predicting credit risk is extremely difficult. The goal of this analysis is to d
 ## Summary
 
 We utilized a combination of oversampling and undersampling as well as independent cases of both for our analysis to help determine which loans are high risk or low risk. We then resampled the data using ensemble classifiers to perform the analysis. The recall in the samples were in the lower range. The ensemble classifiers are more accurate for this analysis due to us wanting a more balanced output for deteremining the risk of these loans. The Easy Ensemble had the best balance of all the models because of it's high accuracy score and good balance of precision and recall scores.
+
+
+* Note: All images that are screen shots are mine. All other photos are sourced from Google Images.
